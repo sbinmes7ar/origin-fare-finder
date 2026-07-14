@@ -5,6 +5,7 @@ __pycache__/
 venv/
 cache.json
 results.csv
+runs/
 .pytest_cache/
 .mypy_cache/
 .DS_Store
